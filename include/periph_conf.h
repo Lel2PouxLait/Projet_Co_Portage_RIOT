@@ -6,15 +6,6 @@
  * details.
  */
 
-/**
- * @ingroup     boards_stm32l0538-disco
- * @{
- *
- * @file
- * @brief       Peripheral MCU configuration for the STM32L0538-DISCO board
- *
- * @author      Alexandre Abadie <alexandre.abadie@inria.fr>
- */
 
 /**
  * Projet STM32@FABLAB Polytech
